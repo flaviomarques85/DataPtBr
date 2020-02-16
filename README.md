@@ -2,7 +2,7 @@
 Simplesmente obtenha a data atual em formato Brasileiro em ADVPL
 
 <b>Cansado de manipular datas em ADVPL e TL++ para obter a data em formato brasileiro ?</b> <br>
-Compile esse codigo em seu RPO e acessa a funcao publica de alguer lugar. <br>
+Compile esse codigo em seu RPO e acesse a funcao publica de qualquer lugar. <br>
 Retorna uma string com a data atual do sistema
 
 <br><br>
