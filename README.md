@@ -1,4 +1,4 @@
-
+# DataPtBr() 
 Simplesmente obtenha a data atual em formato Brasileiro em ADVPL
 
 <b>Cansado de manipular datas em ADVPL e TL++ para obter a data em formato brasileiro ?</b> <br>
