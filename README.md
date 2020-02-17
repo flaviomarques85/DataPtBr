@@ -13,3 +13,11 @@ Retorna uma string com a data atual do sistema
   
   <br><br>
   Pronto !!!
+  
+  <br><br>
+  <H3>Compatibilidade:</H3>
+  Versão: 11<br>
+  Versão: 12.1.17<br>
+  Versão: 12.1.23<br>
+  Versão: 12.1.25<br>
+  
